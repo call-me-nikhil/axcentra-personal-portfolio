@@ -1,3 +1,12 @@
+# week 1 assingment : Personal Portfolio Website
+- Create a responsive personal portfolio using HTML and CSS.
+
+- Include sections: About, Education, Projects, and Contact
+
+<br>
+<br>
+<br>
+
 # My Personal Portfolio
 
 A clean, responsive personal portfolio website built with HTML5, CSS3, and JavaScript. This project showcases my skills, education, and projects as a Web Developer.
